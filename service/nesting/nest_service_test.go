@@ -5,9 +5,8 @@ import (
 	"testing"
 )
 
-func TestnNesttingFunc(t *testing.T) {
-
+func TestNestingFunc(t *testing.T) {
 	convey.Convey("Test nesttingFunc", t, func() {
-		nesttingFunc()
+		nestingFunc()
 	})
 }
